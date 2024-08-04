@@ -1,0 +1,1 @@
+In a single-stock market (e.g., stock x) where actors use one of two investment strategies, ”momen- tum” and ”contrarian” how long does it take for the number of buyers and sellers of stock x to reach equilibrium after a change in the stock x price?. This model is designed to answer this question
